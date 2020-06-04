@@ -16,3 +16,6 @@ A project report is available.
 # Video Demonstration
 The demonstration of working of model and its setup is shown with the help of a video.
 
+# Working Link
+https://node-red-qacin.eu-gb.mybluemix.net/ui/#!/0?socketid=AaKqDHMbrljYxe3HAAAy
+
