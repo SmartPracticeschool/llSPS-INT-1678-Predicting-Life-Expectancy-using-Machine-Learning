@@ -19,3 +19,6 @@ The demonstration of working of model and its setup is shown with the help of a 
 # Working Link
 https://node-red-qacin.eu-gb.mybluemix.net/ui/#!/0?socketid=AaKqDHMbrljYxe3HAAAy
 
+# Youtube Link
+https://youtu.be/NPLWm9g4OFk
+
