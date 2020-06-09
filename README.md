@@ -1,4 +1,4 @@
-# llSPS-INT-1678-Predicting-Life-Expectancy-using-Machine-Learning
+# llSPS-INT-1678-Predicting-Life-Expectancy-using Python and AUTO AI. Please refer to the folder for AUTO AI.
 Predicting Life Expectancy using Machine Learning
 
 # DataSet
