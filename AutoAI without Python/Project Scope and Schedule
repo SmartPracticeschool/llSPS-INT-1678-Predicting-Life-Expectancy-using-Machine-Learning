@@ -1,0 +1,33 @@
+Predicting life expectancy using machine learning
+●   Project Summary
+ In this project we create a machine learning model to predict the life expectancy of a person living in a certain country based on various factors.
+The data offers a timeframe till 2015 for various countries. The output algorithms have been used to test if they can maintain their accuracy in predicting the life expectancy for data they haven't been trained. Five algorithms have been used:
+AutoAI
+Linear Regression
+Polynomial Regression
+Logistic Regression
+Ridge Regression
+Lasso Regression
+
+●     Project Scope
+The scope of this project is to predict the best estimate of the life expectancy of a person. Given my knowledge of the project and time
+that I have spent upon thinking upon the question there will be a decline in the life expectancy of people in difference countries because
+of the lack of proper health infrastructure and frequent pandemic outbreaks. The people who are more involved in the outdoor jobs have high
+risk of less life expectancy. There is a 5-10% chance that life expectancy will decline in the future. If it does, then my best guess is that
+the mean value – of the range of possible life expectancies in 2040  is 70 years, which is close to the current value of female life expectancy
+in the world as a whole. 
+
+
+●     Project Requirements
+       
+    ●     Functional Requirements
+    1. Create a data model present in the database. 
+    2. The dataset is made available to the public for health data analysis.
+    3. It is related to the different countries depending on the different countries while finding the dataset in different countries might be difficult and hence we decided that we exclude these countries from the final dataset.
+
+    ●     Technical Requirements
+    The merged dataset by using the databases in the CSV formats.
+    We can use datasets with the help of machine learning and data science with the help of python.
+    ●     Software Requirements
+    
+    AutoAI ,Python IDE, Excel, IBM Cloud, IBM Watson 
