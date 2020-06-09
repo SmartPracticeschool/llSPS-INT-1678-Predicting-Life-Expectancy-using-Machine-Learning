@@ -1,9 +1,9 @@
-# llSPS-INT-1678-Predicting-Life-Expectancy-using Python and AUTO AI. Please refer to the folder for AUTO AI.
+# llSPS-INT-1678-Predicting-Life-Expectancy-using AUTO AI and NODE RED.
 
 Predicting Life Expectancy using Machine Learning
 
 # DataSet
-The dataset used for predicting the life expectancy using machine learning has been developed by the WHO and the file that contains the dataset is of the name life.csv
+The dataset used for predicting the life expectancy using machine learning has been developed by the WHO and the file that contains the dataset is of the name lifeexpect.csv
 
 # ML Model
 The Ml Model has been developed using the Watson Studio and by using the various regression techniques. The notebook scoringEndpoint.ipynb contains the ML Model for predicting the Life Expectancy.
@@ -18,8 +18,8 @@ A project report is available.
 The demonstration of working of model and its setup is shown with the help of a video.
 
 # Working Link
-https://node-red-qacin.eu-gb.mybluemix.net/ui/#!/0?socketid=AaKqDHMbrljYxe3HAAAy
+https://node-red-kgptu.eu-gb.mybluemix.net/ui/#!/0?socketid=8eA9DBeP_y7iGsmyAAAo
 
 # Youtube Link
-https://youtu.be/NPLWm9g4OFk
+https://www.youtube.com/watch?v=JofozUNZEIA&feature=youtu.be
 
