@@ -11,7 +11,7 @@ The Ml Model has been developed using the Watson Studio and by using the various
 The UI has been developed using Node Red and linked with the ML Model using the endpoint url. It is stored in the NodeRedFlow.json
 
 # Project Report
-A project report is available.
+A project report is available in the file project files.
 
 # Video Demonstration
 The demonstration of working of model and its setup is shown with the help of a video.
